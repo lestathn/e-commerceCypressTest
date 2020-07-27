@@ -37,10 +37,6 @@ describe('Checking Search', () => {
        cy.wait(1000);
        cy.get('div[class="pb-center-column col-xs-12 col-sm-4"]');
 
-   })
-
-
-
- 
+   }) 
     
 })

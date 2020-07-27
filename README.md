@@ -30,4 +30,4 @@ The next project is an automatic test on site http://automationpractice.com/inde
 3. To Run this command now, on console:  touch cypress/integration/{Your Test File}
 
 4. To Run this command now, or in CI.
-cypress run --record --key 99fa4a89-7b2b-4527-9a37-1d41bf80da71
+cypress run --record --key fcbe2228-9c69-4665-86de-1f34e3e78128
