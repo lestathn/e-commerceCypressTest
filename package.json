@@ -1,0 +1,24 @@
+{
+  "name": "cypressflowtest",
+  "version": "1.0.0",
+  "description": "Automated flow test with cypress",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^4.11.0"
+  },
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:headless": "cypress run --headless"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lestathn/CypressFlowTest.git"
+  },
+  "author": "Elder David Godoy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lestathn/ZeroBank-AutomatedTest/issues"
+  },
+  "homepage": "https://github.com/lestathn/ZeroBank-AutomatedTest#readme"
+}
