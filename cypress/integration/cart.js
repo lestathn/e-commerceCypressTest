@@ -7,7 +7,7 @@ before(() => {
     
 beforeEach(()=>{
    Cypress.Cookies.defaults({
-      whitelist: 'session_id'
+      preserve: 'session_id'
    })
 })
 
